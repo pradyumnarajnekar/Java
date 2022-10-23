@@ -1,4 +1,4 @@
-//Write a Java program to perform arithmetic operations by takin input from the user.
+//Write a Java program to perform arithmetic operations by takin input from the user (using methods).
 
 import java.util.Scanner; 
 class userarith 
